@@ -6,17 +6,17 @@ title: Phonebooths of the world
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+# url: "https://flicht.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
 # baseurl: "/duo/"
 
 # Twitter IDs
-twitter:
-  username: "chibicode"
-author:
-  twitter: "chibicode"
+# twitter:
+#   username: "chibicode"
+# author:
+#   twitter: "chibicode"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
