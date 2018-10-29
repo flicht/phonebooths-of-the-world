@@ -2,37 +2,37 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Phonebooths of the World
+title: Phonebooths of the world
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-# url: "https://chibicode.github.io"
+url: "https://chibicode.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/"
+# baseurl: "/duo/"
 
-# # Twitter IDs
-# twitter:
-#   username: "chibicode"
-# author:
-#   twitter: "chibicode"
+# Twitter IDs
+twitter:
+  username: "chibicode"
+author:
+  twitter: "chibicode"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#     values:
-#       image: "static/images/og.jpg"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      # image: "static/images/op.jpg"
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
 #
 # See: https://material.io/guidelines/style/color.html
 # Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "amber-400"
+brand_color: "red-100"
 
 # How article URLs are structured.
 # See: https://jekyllrb.com/docs/permalinks/

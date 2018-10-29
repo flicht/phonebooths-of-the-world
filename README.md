@@ -1,31 +1,52 @@
-![](static/images/og.jpg)
+<!-- ![](https://chibicode.github.io/duo/static/images/og.jpg) -->
+<!-- ![](https://pbs.twimg.com/profile_images/600306544207601664/UzjZHEyX_400x400.jpg) -->
+#### Cuba
+![](static/images/cuba.jpg)
+<br />
+<br />
+#### Cuba
+![](static/images/cuba2.jpg)
+<br />
+<br />
+#### Cuba
+![](static/images/cuba3.jpg)
+<br />
+<br />
+#### Israel
+![](static/images/israel_2.jpg)
+<br />
+<br />
+<!-- #### Israel
+![](static/images/israel.jpg)
+ -->
+<br /> 
+<br />
 
-**Duo** is a simple [Jekyll](http://jekyllrb.com/) theme. You can use duo for a single-page site or a simple blog.
+**Phonebooths of the world** is a site by Freddie Lichtenstein 
 
-- **Demo Page**: [https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
+<!-- - **Demo Page**: [https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
 - **Example Page:** [My React tutorial](https://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/).
 - **GitHub Repo:** [chibicode/duo](https://github.com/chibicode/duo)
 
-<!-- <a class="github-button" href="https://github.com/chibicode/duo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star chibicode/duo on GitHub">Star</a> -->
+<a class="github-button" href="https://github.com/chibicode/duo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star chibicode/duo on GitHub">Star</a> -->
 
-## Get Started
-![](static/images/op.jpg)
+<!-- ## Get Started -->
 
-```bash
-# Download and Install
-git clone https://github.com/chibicode/duo.git
-bundle install
+<!-- #```bash -->
+<!-- # Download and Install -->
+<!-- git clone https://github.com/chibicode/duo.git -->
+<!-- bundle install -->
 
-# Run
-bundle exec jekyll serve
-# open http://localhost:4000/duo
-```
+<!-- # Run -->
+<!-- bundle exec jekyll serve -->
+<!-- # open http://localhost:4000/duo -->
+<!-- ``` -->
 
-## Next Steps
+<!-- ## Next Steps -->
 
-See: [Customize Duo](https://chibicode.github.io/duo/posts/customize).
+<!-- See: [Customize Duo](https://chibicode.github.io/duo/posts/customize). -->
 
-## Like or Retweet Appreciated :)
+<!-- ## Like or Retweet Appreciated :) -->
 
 <!-- <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Just published: Duo, A Simple Jekyll Theme.  <a href="https://t.co/G2kffR9e4U">https://t.co/G2kffR9e4U</a> <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">@jekyllrb</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/923156795824128000?ref_src=twsrc%5Etfw">October 25, 2017</a></blockquote> -->
 

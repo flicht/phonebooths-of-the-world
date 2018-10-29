@@ -1,24 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/posts/2017-10-08-hello-world/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/posts/2017-10-09-responsive-youtube-example/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/posts/2017-10-10-japanese-test-case/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/posts/2017-10-11-syntax-highlighting-test-case/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/posts/2017-10-12-html-test-case/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/posts/2017-10-13-customize/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
 </urlset>
