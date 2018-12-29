@@ -16,9 +16,12 @@
 ![](static/images/israel_2.jpg)
 <br />
 <br />
-<!-- #### Israel
-![](static/images/israel.jpg)
- -->
+#### Bristol
+![](static/images/bristol.jpg)
+<br /> 
+<br />
+#### Jerusalem
+![](static/images/jerusalem.jpg)
 <br /> 
 <br />
 
